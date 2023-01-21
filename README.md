@@ -18,6 +18,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="REDUX" alt="REDUX" width="40" height="40"/>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NODEJS" alt="NODEJS" width="40" height="40"/>
+  
+<img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original-wordmark.svg" title="SEQUELIZE" alt="SEQUELIZE" width="40" height="40"/>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PSQL" alt="PSQL" width="40" height="40"/>
 
