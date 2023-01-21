@@ -4,7 +4,7 @@
 </div>
 ---
 <div id="about.me" align="center">🧑🏻‍💻Acerca de mí:</div>
-<div id="lenguages.herramientas" aling="center">
+<div id="lenguages.herramientas" align="center">
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
 
