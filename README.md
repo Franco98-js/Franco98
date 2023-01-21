@@ -2,7 +2,6 @@
 <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width="200"/>
 <h1>Hola 👋🏻, Soy Franco98-js</h1>
 </div>
----
 <div id="about.me" align="center">🧑🏻‍💻Acerca de mí:</div>
 <div id="lenguages.herramientas" align="center">
 
