@@ -19,8 +19,6 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NODEJS" alt="NODEJS" width="40" height="40"/>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="EXPRESS" alt="EXPRESS" width="40" height="40"/>
-
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PSQL" alt="PSQL" width="40" height="40"/>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="GIT" alt="GIT" width="40" height="40"/>
