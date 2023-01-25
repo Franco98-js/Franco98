@@ -2,12 +2,13 @@
 <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width="200"/>
 <h1>Hi 👋🏻, I'm Franco98-js</h1>
 </div>
----
-<div>###About me:
+
+
+### About me:
 I am a Full Stack Developer with a passion for building beautiful and user-friendly web applications. I am also a quick learner and have a keen eye for detail.
 If you're looking for a Full Stack Developer to help build your next web application, please get in touch. I'd be happy to chat and see if I can be of assistance. I really enjoy working with teams to create high-quality software.
-</div>
 ---
+
 <div align="left">
 <h3>🔨Lenguages y herramientas:</h3>
 <div>
