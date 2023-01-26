@@ -4,13 +4,13 @@
 </div>
 
 
-### 🧑🏻‍💻About me:
+### 🧑🏻‍💻About me :
 I am a Full Stack Developer with a passion for building beautiful and user-friendly web applications. I am also a quick learner and have a keen eye for detail.
 If you're looking for a Full Stack Developer to help build your next web application, please get in touch. I'd be happy to chat and see if I can be of assistance. I really enjoy working with teams to create high-quality software.
 ---
 
 <div align="center">
-<h3>🔨Languages and tools:</h3>
+<h3>🔨Languages and tools :</h3>
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
 
@@ -33,7 +33,7 @@ If you're looking for a Full Stack Developer to help build your next web applica
 </div>
 
 ---
-
-### 📊 My stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=Franco98-js&theme=tokyonight&hide_border=true&border_radius=10&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
+<div align="center">
+### 📊 My stats :
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Franco98-js&theme=tokyonight&hide_border=true&border_radius=10&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+</div>
