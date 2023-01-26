@@ -33,7 +33,7 @@ If you're looking for a Full Stack Developer to help build your next web applica
 </div>
 
 ---
-<div align="center">
+
 ### 📊 My stats :
   [![GitHub Streak](https://streak-stats.demolab.com?user=Franco98-js&theme=tokyonight&hide_border=true&border_radius=10&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-</div>
+
